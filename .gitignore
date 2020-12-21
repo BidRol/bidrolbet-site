@@ -1,3 +1,6 @@
+# private
+secrets.json
+
 # Django
 *.log
 *.pot
